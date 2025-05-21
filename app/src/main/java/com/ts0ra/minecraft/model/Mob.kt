@@ -6,4 +6,5 @@ data class Mob(
     val health: Int,
     val damage: Int,
     val description: String,
+    val image: String,
 )
